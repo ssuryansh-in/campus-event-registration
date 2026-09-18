@@ -1,0 +1,4 @@
+Search events by:
+- Event name
+- Date
+- Venue
